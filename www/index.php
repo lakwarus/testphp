@@ -1,4 +1,3 @@
 <?php
-#echo "Hellooooooooooooo Worldddddddd!!!";
-phpinfo();
+echo "My running IP adress is ".$_SERVER['SERVER_ADDR'];
 ?>
